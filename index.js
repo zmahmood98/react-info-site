@@ -61,10 +61,12 @@ function MainContent() {
     )
 }
 
+// Afterward, render it below the Navbar
+
 ReactDOM.render(
     <div>
         <Navbar />
-        
+        <MainContent />
     </div>,
     document.getElementById("root")
 )
