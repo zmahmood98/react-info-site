@@ -1,5 +1,15 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react'
+import ReactDOM from 'react-dom'
+import './style.css'
+import App from './App'
+
+ReactDOM.render(<App />, document.getElementById('root'))
+
+
+
+
+
+// Other challenges
 
 // render h2 tag inside the root div
 /* ReactDOM.render(<h2>Hello, everyone!</h2>, document.getElementById("root"))
@@ -35,5 +45,3 @@ import ReactDOM from "react-dom";
 //     </div>,
 //     document.getElementById("root")
 // )
-
-
