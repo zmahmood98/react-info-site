@@ -1,0 +1,25 @@
+{
+  "name": "react-info-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmahmood98/react-info-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmahmood98/react-info-site/issues"
+  },
+  "homepage": "https://github.com/zmahmood98/react-info-site#readme",
+  "dependencies": {
+    "babel-standalone": "^6.26.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
