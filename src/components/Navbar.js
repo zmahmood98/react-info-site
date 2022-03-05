@@ -3,7 +3,7 @@ import reactLogo from '../images/react-icon-small.png'
 
 export default function Navbar() {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav >
             <img
                 src={reactLogo}
                 alt="React Logo"
